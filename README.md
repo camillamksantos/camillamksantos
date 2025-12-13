@@ -30,7 +30,7 @@
 
 ---
 <!--study-->
-<img align="right" width="200" src="https://raw.githubusercontent.com/camillamksantos/camillamksantos/refs/heads/main/imagens/imagens.png" alt="Pikachu PHD">
+<img align="right" width="200" src="https://raw.githubusercontent.com/camillamksantos/camillamksantos/refs/heads/main/imagens/pikachu-pikachu-phd.gif" alt="Pikachu PHD">
 <h4 align="center">🎓 Formação acadêmica</h4>
 📌 Técnico em Informática para Internet - ETEC Professor Camargo Aranha (2012-2013) <br>
 📌 Graduação e Licenciatura em Letras - Português e Japonês - Universidade de São Paulo (2014-2020) <br>
